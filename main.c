@@ -14,11 +14,8 @@
 
 
 void main(){
+	sad
 	
-	
-	
-	
-	
-	name oof allah sss
-	printf ("KHALED ");
+	clean
+
 }
